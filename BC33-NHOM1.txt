@@ -1,0 +1,11 @@
+BC33 - Nhóm 1 : Bùi Đình Nguyễn + Nguyễn Hoàng Châu
+Phần làm :
+	-BÙI ĐÌNH NGUYỄN
++ 3 tab : Home + About + Services
++ Tạo GITHUB
++ Deploy web
++ Tạo link YOUTUBE
+
+
+	-NGUYỄN HOÀNG CHÂU 
++ 3 tab : BLOG , 404 , CONTACT 
